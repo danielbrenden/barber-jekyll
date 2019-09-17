@@ -8,20 +8,17 @@ name: Daniel Brenden
 title: daniel brenden
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://danielbrendn.co
-twitter_username: thomasvaeth
+url: http://danielbrenden.co
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/dcbee
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/danielbrenden/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/danielbrenden
+  - name: behance
+    url: https://www.behance.net/danielbrenden/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
