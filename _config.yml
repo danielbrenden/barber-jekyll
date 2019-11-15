@@ -56,7 +56,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Daniel Brenden'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
